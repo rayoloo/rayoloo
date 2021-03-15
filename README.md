@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rayoloo
-- 👀 I’m interested in machine learning, automation
+- 👋 Hi, I’m @rayoloo/ Raymond
+- 👀 I’m interested in machine learning, automation, websites
 - 🌱 I’m currently learning web development specifically reactJS
 - 💞️ I’m looking to collaborate on: anything since I am want to learn and broaden my skill range
 - 📫 How to reach me here: raymond.lam122@gmail.com
