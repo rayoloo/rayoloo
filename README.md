@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rayoloo/ Raymond
 - 👀 I’m interested in machine learning, automation, and web development
-- 🌱 I’m currently learning web development specifically reactJS along with Django
+- 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on anything since to broaden my skill range
 - 📫 How to reach me here: raymond.lam122@gmail.com
 
